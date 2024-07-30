@@ -1,0 +1,1 @@
+src中包含了rm_robot、MOVEIT2、image_sender三部分，模型文件放在另一个仓库
