@@ -1,0 +1,29 @@
+[ 20%] Built target rm_get_state
+[ 60%] Built target rm_change_work_frame
+[ 60%] Built target movel_demo
+[ 80%] Built target movej_demo
+[100%] Built target movejp_demo
+-- Install configuration: ""
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/launch
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/launch/rm_7dof_movej.launch.py
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/launch/rm_6dof_movej.launch.py
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/lib/rm_example/rm_change_work_frame
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/lib/rm_example/rm_get_state
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/lib/rm_example/movej_demo
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/lib/rm_example/movejp_demo
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/lib/rm_example/movel_demo
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/ament_index/resource_index/package_run_dependencies/rm_example
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/ament_index/resource_index/parent_prefix_path/rm_example
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/environment/ament_prefix_path.sh
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/environment/path.sh
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/environment/path.dsv
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/local_setup.bash
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/local_setup.sh
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/local_setup.zsh
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/local_setup.dsv
+-- Installing: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/package.dsv
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/ament_index/resource_index/packages/rm_example
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/cmake/rm_exampleConfig.cmake
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/cmake/rm_exampleConfig-version.cmake
+-- Up-to-date: /home/a4x/hezixiang/ws_rm_robot/install/rm_example/share/rm_example/package.xml

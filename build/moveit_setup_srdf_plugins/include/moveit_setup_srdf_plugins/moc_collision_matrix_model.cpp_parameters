@@ -1,0 +1,5 @@
+-DBACKWARD_HAS_DW=1
+-DROS_PACKAGE_NAME="moveit_setup_srdf_plugins"
+-o
+/home/a4x/hezixiang/ws_rm_robot/build/moveit_setup_srdf_plugins/include/moveit_setup_srdf_plugins/moc_collision_matrix_model.cpp
+/home/a4x/hezixiang/ws_rm_robot/src/moveit2/moveit_setup_assistant/moveit_setup_srdf_plugins/include/moveit_setup_srdf_plugins/collision_matrix_model.hpp

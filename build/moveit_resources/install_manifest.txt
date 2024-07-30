@@ -1,0 +1,15 @@
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/ament_index/resource_index/package_run_dependencies/moveit_resources
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/ament_index/resource_index/parent_prefix_path/moveit_resources
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/environment/ament_prefix_path.sh
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/environment/ament_prefix_path.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/environment/path.sh
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/environment/path.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/local_setup.bash
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/local_setup.sh
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/local_setup.zsh
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/local_setup.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/package.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/ament_index/resource_index/packages/moveit_resources
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig.cmake
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig-version.cmake
+/home/a4x/hezixiang/ws_rm_robot/install/moveit_resources/share/moveit_resources/package.xml

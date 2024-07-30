@@ -1,0 +1,46 @@
+[1.281s] Invoking command in '/home/a4x/hezixiang/ws_rm_robot/src/image_sender': PYTHONPATH=/home/a4x/hezixiang/ws_rm_robot/build/image_sender/prefix_override:/home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/image_sender build --build-base /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build install --record /home/a4x/hezixiang/ws_rm_robot/build/image_sender/install.log --single-version-externally-managed install_data
+[1.527s] running egg_info
+[1.527s] creating ../../build/image_sender/image_sender.egg-info
+[1.527s] writing ../../build/image_sender/image_sender.egg-info/PKG-INFO
+[1.527s] writing dependency_links to ../../build/image_sender/image_sender.egg-info/dependency_links.txt
+[1.528s] writing entry points to ../../build/image_sender/image_sender.egg-info/entry_points.txt
+[1.528s] writing requirements to ../../build/image_sender/image_sender.egg-info/requires.txt
+[1.528s] writing top-level names to ../../build/image_sender/image_sender.egg-info/top_level.txt
+[1.528s] writing manifest file '../../build/image_sender/image_sender.egg-info/SOURCES.txt'
+[1.529s] reading manifest file '../../build/image_sender/image_sender.egg-info/SOURCES.txt'
+[1.530s] writing manifest file '../../build/image_sender/image_sender.egg-info/SOURCES.txt'
+[1.530s] running build
+[1.530s] running build_py
+[1.530s] creating /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build
+[1.530s] creating /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib
+[1.531s] creating /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender
+[1.531s] copying image_sender/image_sender.py -> /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender
+[1.531s] copying image_sender/image_sender copy.py -> /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender
+[1.531s] copying image_sender/Utils.py -> /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender
+[1.531s] copying image_sender/__init__.py -> /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender
+[1.531s] copying image_sender/myUtils.py -> /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender
+[1.531s] running install
+[1.532s] running install_lib
+[1.532s] creating /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender
+[1.532s] copying /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender/image_sender.py -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender
+[1.533s] copying /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender/image_sender copy.py -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender
+[1.533s] copying /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender/Utils.py -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender
+[1.533s] copying /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender/__init__.py -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender
+[1.533s] copying /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build/lib/image_sender/myUtils.py -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender
+[1.533s] byte-compiling /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender/image_sender.py to image_sender.cpython-310.pyc
+[1.535s] byte-compiling /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender/image_sender copy.py to image_sender copy.cpython-310.pyc
+[1.536s] byte-compiling /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender/Utils.py to Utils.cpython-310.pyc
+[1.543s] byte-compiling /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender/__init__.py to __init__.cpython-310.pyc
+[1.543s] byte-compiling /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender/myUtils.py to myUtils.cpython-310.pyc
+[1.544s] running install_data
+[1.544s] creating /home/a4x/hezixiang/ws_rm_robot/install/image_sender/share/ament_index
+[1.544s] creating /home/a4x/hezixiang/ws_rm_robot/install/image_sender/share/ament_index/resource_index
+[1.544s] creating /home/a4x/hezixiang/ws_rm_robot/install/image_sender/share/ament_index/resource_index/packages
+[1.544s] copying resource/image_sender -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/share/ament_index/resource_index/packages
+[1.544s] copying package.xml -> /home/a4x/hezixiang/ws_rm_robot/install/image_sender/share/image_sender
+[1.544s] running install_egg_info
+[1.545s] Copying ../../build/image_sender/image_sender.egg-info to /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages/image_sender-0.0.0-py3.10.egg-info
+[1.546s] running install_scripts
+[1.568s] Installing image_sender script to /home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/image_sender
+[1.569s] writing list of installed files to '/home/a4x/hezixiang/ws_rm_robot/build/image_sender/install.log'
+[1.595s] Invoked command in '/home/a4x/hezixiang/ws_rm_robot/src/image_sender' returned '0': PYTHONPATH=/home/a4x/hezixiang/ws_rm_robot/build/image_sender/prefix_override:/home/a4x/hezixiang/ws_rm_robot/install/image_sender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/image_sender build --build-base /home/a4x/hezixiang/ws_rm_robot/build/image_sender/build install --record /home/a4x/hezixiang/ws_rm_robot/build/image_sender/install.log --single-version-externally-managed install_data

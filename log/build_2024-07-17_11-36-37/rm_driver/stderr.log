@@ -1,0 +1,4 @@
+[01m[K/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_driver/src/rm_driver.cpp:[m[K In function ‘[01m[Kvoid my_handler(int)[m[K’:
+[01m[K/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_driver/src/rm_driver.cpp:20:28:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksig[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   20 | static void my_handler([01;35m[Kint sig[m[K)  // can be called asynchronously
+      |                        [01;35m[K~~~~^~~[m[K

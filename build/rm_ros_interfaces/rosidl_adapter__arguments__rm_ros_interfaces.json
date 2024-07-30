@@ -1,0 +1,32 @@
+{
+  "package_name": "rm_ros_interfaces",
+  "non_idl_tuples": [
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Movej.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Movejp.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Movel.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Movec.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Setrealtimepush.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Armsoftversion.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Sixforce.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Jointerrorcode.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Forcepositionmovejoint.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Forcepositionmovepose.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Setforceposition.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Getallframe.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Jointpos.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Cartepos.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Jointerrclear.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Gripperpick.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Gripperset.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Handangle.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Handforce.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Handposture.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Handseq.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Handspeed.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Armoriginalstate.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Armstate.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Liftspeed.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Liftheight.msg",
+    "/home/a4x/hezixiang/ws_rm_robot/src/ros2_rm_robot/rm_ros_interfaces:msg/Liftstate.msg"
+  ]
+}

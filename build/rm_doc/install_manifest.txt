@@ -1,0 +1,15 @@
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/ament_index/resource_index/package_run_dependencies/rm_doc
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/ament_index/resource_index/parent_prefix_path/rm_doc
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/environment/ament_prefix_path.sh
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/environment/ament_prefix_path.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/environment/path.sh
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/environment/path.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/local_setup.bash
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/local_setup.sh
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/local_setup.zsh
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/local_setup.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/package.dsv
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/ament_index/resource_index/packages/rm_doc
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/cmake/rm_docConfig.cmake
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/cmake/rm_docConfig-version.cmake
+/home/a4x/hezixiang/ws_rm_robot/install/rm_doc/share/rm_doc/package.xml

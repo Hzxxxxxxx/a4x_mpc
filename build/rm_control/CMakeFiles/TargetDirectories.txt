@@ -1,0 +1,10 @@
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/uninstall.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/rm_control_uninstall.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/rm_control.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/test.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/edit_cache.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/rebuild_cache.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/list_install_components.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/install.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/install/local.dir
+/home/a4x/hezixiang/ws_rm_robot/build/rm_control/CMakeFiles/install/strip.dir

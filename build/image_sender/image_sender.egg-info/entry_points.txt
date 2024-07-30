@@ -1,0 +1,3 @@
+[console_scripts]
+image_sender = image_sender.image_sender:main
+
